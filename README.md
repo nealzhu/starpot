@@ -1,0 +1,2 @@
+# starpot
+Manage stared project
